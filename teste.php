@@ -1,5 +1,5 @@
 <?php
 
-    echo "teste de alteraçao e commit"
+    echo "teste 3 de alteraçao e commit"
 
 ?>
