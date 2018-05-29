@@ -7,7 +7,11 @@ $meses = array(
 
 );
 
-foreach ($mes)
+foreach ($meses as $index => $mes) {
+	
+	echo "Indice: ".$index."<br>";
+	echo "o mês é: ".$mes."<br>";
+}
 
 
 
