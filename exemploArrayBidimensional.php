@@ -15,4 +15,13 @@ echo $carros[0][0] . " ";
 echo reset ($carros [1]);
 
 
+/*
+current() - Retorna o elemento corrente em um array
+each() - Retorna o par chave/valor corrente de um array e avança o seu cursor
+prev() - Retrocede o ponteiro interno de um array
+reset() - Faz o ponteiro interno de um array apontar para o seu primeiro elemento
+next() - Avança o ponteiro interno de um array
+*/
+
+
 ?>
