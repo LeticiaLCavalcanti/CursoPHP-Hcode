@@ -23,7 +23,7 @@ class CPF extends Documento {
 
 		$numeroCPF = $this->getNumero();
 
-		//aqui vai a validadeção do CPF
+		//aqui vai a validação do CPF
 
 		return true; 
 	}
